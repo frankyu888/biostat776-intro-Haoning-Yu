@@ -10,19 +10,9 @@ This is the repository for Frank Yu in Biostat 776.
 
 Hello! My name is Frank.
 
-#Research Interests
-I am  interested in how injury, biomaterials, and autoimmunity all play into one another in clinical work. I want to utilize new understanding of the immune response to tissue damage, biomaterials to remove inhibitory factors that are blocking repair and develop regenerative immunotherapies that promote tissue repair in even the harshest environments. 
+## Research Interests
+I am  interested in how injury, biomaterials, and autoimmunity all play into one another in clinical work. 
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Fun Facts
+1. I like meat
+2. I am a Marvel fan
